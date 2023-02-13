@@ -82,7 +82,7 @@ main {
 .card {
     margin: 20px;
     position: relative;
-    transition: all .5s ease-in-out;
+    transition: all 1s ease-in-out .5s;
 }
 
 .card img, a {
@@ -133,6 +133,7 @@ footer {
     height: 80px;
 }
 
+/* Only used one media query, because the same new elements work for smaller screens as well */
 @media screen and (max-width: 992px) {
     nav {
         display: flex;
