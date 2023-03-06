@@ -102,7 +102,7 @@ main {
 }
 
 .card img:hover {
-    box-shadow: inset 0px 0px 8px rgba(201, 174, 0, .8), 0 0 15px rgba(201, 104, 0, 0.8)
+    box-shadow: inset 0px 0px 8px rgba(201, 174, 0, .8), 0 0 15px rgba(201, 104, 0, 0.8);
 }
 
 .about {
