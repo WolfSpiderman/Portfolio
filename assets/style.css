@@ -74,7 +74,7 @@ main {
     border: 10px outset orangered;
 }
 
-#mvp img, a {
+#mvp img {
     width: 70vw;
     height: auto;
     background: radial-gradient(circle at 77% 80%, #FDFEB4 2.5%, transparent 2.5%),
